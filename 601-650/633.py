@@ -1,0 +1,6 @@
+t = input()
+p = input()
+p1 = input()
+p2 = input()
+lst = sorted([p,p1,p2])
+print(f'{t}: {lst[0]}, {lst[1]}, {lst[2]}')
